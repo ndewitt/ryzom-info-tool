@@ -1,8 +1,7 @@
-Initial Version:
 Containing:
 
-RyzomFramework including InfoDB V1.0
-CharacterPlugin 		V1.0
-GuildPlugin 			V1.0
-DatabasePlugin 			V1.0
-MatBrowserPlugin  		V1.0
+RyzomFramework including InfoDB V1.1
+CharacterPlugin 		V1.1
+GuildPlugin 			V1.1
+DatabasePlugin 			V1.1
+MatBrowserPlugin  		V1.1
