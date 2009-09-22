@@ -1,7 +1,7 @@
 Containing:
 
-RyzomFramework including InfoDB V1.1
-CharacterPlugin 		V1.1
-GuildPlugin 			V1.1
+RyzomFramework including InfoDB V1.2
+CharacterPlugin 		V1.2
+GuildPlugin 			V1.2
 DatabasePlugin 			V1.1
-MatBrowserPlugin  		V1.1
+MatBrowserPlugin  		V1.2
